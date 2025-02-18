@@ -1,0 +1,12 @@
+com\zosh\domain\OrderStatus.class
+com\zosh\model\OrderItem.class
+com\zosh\model\Order.class
+com\zosh\domain\OrderType.class
+com\zosh\domain\USER_ROLE.class
+com\zosh\domain\VerificationType.class
+com\zosh\model\User.class
+com\zosh\repository\OrderRepository.class
+com\zosh\model\PaymentDetails.class
+com\zosh\domain\UserStatus.class
+com\zosh\model\Coin.class
+com\zosh\model\TwoFactorAuth.class
